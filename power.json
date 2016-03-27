@@ -3,8 +3,8 @@
   "parallel": [
     {
       "enabled": true,
-      "date": "2016/3/27",
-      "time": "06:00",
+      "date": "2016/3/28",
+      "time": "00:10",
       "offset": "+",
       "action": "shutdown",
       "cycle": false
