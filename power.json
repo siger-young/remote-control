@@ -4,9 +4,9 @@
     {
       "enabled": true,
       "date": "2016/3/28",
-      "time": "00:25",
+      "time": "06:50",
       "offset": "+",
-      "action": "restart",
+      "action": "shutdown",
       "cycle": false
     },
   ]
