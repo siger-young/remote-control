@@ -2,7 +2,7 @@
   "enabled": true,
   "parallel": [
     {
-      "date": "2016/3/28",
+      "date": "2016/3/27",
       "time": "06:00",
       "offset": "+",
       "action": "shutdown",
