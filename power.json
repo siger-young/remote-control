@@ -1,4 +1,6 @@
 {
   "enabled": false,
+  "date": "",
+  "time": "",
   "action": "restart"
 }
