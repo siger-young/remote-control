@@ -3,8 +3,9 @@
   "parallel": [
     {
       "enabled": true,
-      "time": "[Friday 23:10, Friday 23:20]",
+      "time": "[Friday 23:00+",
       "action": "test",
+      "timer": "finish-stop",
       "cycle": false
     },
   ]
