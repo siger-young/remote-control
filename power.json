@@ -4,8 +4,8 @@
     {
       "enabled": true,
       "time": "[Monday 3:00, Monday 4:00]",
-      "action": "test",
-      "timer": "",
+      "action": "kill",
+      "timer": "finish-stop",
       "cycle": false
     },
   ]
