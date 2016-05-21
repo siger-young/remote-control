@@ -3,7 +3,7 @@
   "parallel": [
     {
       "enabled": true,
-      "time": "[Saturday 03:00,Saturday 11:00]",
+      "time": "[Saturday 12:00,Saturday 13:00]",
       "action": "test",
       "timer": "",
       "cycle": false
