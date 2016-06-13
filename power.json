@@ -2,7 +2,7 @@
   "enabled": true,
   "parallel": [
     {
-      "enabled": true,
+      "enabled": false,
       "time": "[Monday 21:00+",
       "action": "test",
       "timer": "",
