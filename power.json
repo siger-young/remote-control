@@ -2,11 +2,11 @@
   "enabled": true,
   "parallel": [
     {
-      "enabled": false,
-      "time": "[Monday 3:00, Monday 4:00]",
-      "action": "kill",
-      "timer": "finish-stop",
-      "cycle": false
+      "enabled": enabled,
+      "time": "Monday",
+      "action": "test",
+      "timer": "",
+      "cycle": true
     },
   ]
 }
