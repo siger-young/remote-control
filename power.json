@@ -4,7 +4,7 @@
     {
       "enabled": true,
       "time": "[Wednesday 21:00+",
-      "action": "restart",
+      "action": "reboot",
       "timer": "",
       "cycle": true
     },
