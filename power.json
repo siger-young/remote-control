@@ -3,8 +3,8 @@
   "parallel": [
     {
       "enabled": true,
-      "time": "[Wed 21:00+",
-      "action": "kill",
+      "time": "[Wednesday 21:00+",
+      "action": "restart",
       "timer": "",
       "cycle": true
     },
