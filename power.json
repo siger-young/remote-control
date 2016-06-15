@@ -3,7 +3,7 @@
   "parallel": [
     {
       "enabled": true,
-      "time": "[Wednesday 21:00+",
+      "time": "[2016/06/15 21:00+",
       "action": "kill",
       "timer": "",
       "cycle": true
