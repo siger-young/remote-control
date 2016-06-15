@@ -2,7 +2,7 @@
   "enabled": true,
   "parallel": [
     {
-      "enabled": true,
+      "enabled": false,
       "time": "[Wednesday 21:00+",
       "action": "reboot",
       "timer": "",
