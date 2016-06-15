@@ -4,7 +4,7 @@
     {
       "enabled": true,
       "time": "[Wed 21:00+",
-      "action": "restart",
+      "action": "kill",
       "timer": "",
       "cycle": true
     },
