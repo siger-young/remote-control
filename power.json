@@ -4,7 +4,7 @@
     {
       "enabled": false,
       "time": "[2016/06/15 21:00+",
-      "action": "kill",
+      "action": "test",
       "timer": "",
       "cycle": true
     },
