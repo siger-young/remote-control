@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "task": [ "TeamViewer" ],
+  "tasks": [ "TeamViewer" ],
 }
