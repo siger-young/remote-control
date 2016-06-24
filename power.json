@@ -1,8 +1,8 @@
 {
-  "enabled": true,
+  "enabled": false,
   "parallel": [
     {
-      "enabled": true,
+      "enabled": false,
       "time": "[2016/06/24 20:00+",
       "action": "restart",
       "timer": "",
