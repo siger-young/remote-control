@@ -1,10 +1,10 @@
 {
-  "enabled": false,
+  "enabled": true,
   "parallel": [
     {
-      "enabled": false,
-      "time": "[2016/06/16 21:00+",
-      "action": "test",
+      "enabled": true,
+      "time": "[2016/06/24 20:00+",
+      "action": "restart",
       "timer": "",
       "cycle": true
     },
