@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "parallel": [
     {
       "enabled": false,
