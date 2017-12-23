@@ -1,5 +1,12 @@
 {
   "enabled": true,
   "parallel": [
+    {
+      "enabled": true,
+      "time": "[2016/06/24 20:00+",
+      "action": "test",
+      "timer": "",
+      "cycle": true
+    },
   ]
 }
