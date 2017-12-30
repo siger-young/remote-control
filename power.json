@@ -4,7 +4,7 @@
     {
       "enabled": true,
       "time": "[2016/06/24 20:00+",
-      "action": "shutdown",
+      "action": "test",
       "timer": "",
       "cycle": true
     },
