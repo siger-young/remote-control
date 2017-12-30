@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "items": [ "TeamViewer", "CPU" ],
+  "items": [ "TeamViewer", "CPU", "音量" ],
 }
